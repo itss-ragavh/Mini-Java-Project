@@ -59,12 +59,10 @@ Book ID: 101, Title: The Great Gatsby, Author: F. Scott Fitzgerald, Issued: true
 ```
 
 ## Author
-- **Your Name**
-- Email: [your_email@example.com]
-- LinkedIn: [Your LinkedIn Profile](#)
+Harish Ragavendra.R
+- Email: harishragavendra2305@gmail.com
+- LinkedIn: www.linkedin.com/in/harishragavendra23
 
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute this code.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, feel free to submit a pull request or raise an issue.
