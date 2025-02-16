@@ -50,7 +50,9 @@ Ensure you have the following installed:
 │   │   ├── bankk.java           # Model class for account details
 │   │   ├── BankFeatures.java    # Contains banking operations (withdraw, deposit, etc.)
 │   │   ├── BankingApplication.java  # Main class to run the application
-│── README.md
+│── Database/
+|   │──database_setup.sql        # MySQL table creation script
+│── README.md                    # Project description & setup guide
 ```
 
 ## Usage
