@@ -77,9 +77,9 @@ This project is licensed under the MIT License.
 ```
 
 ## Contact Information
-```
+
 - **Name:** Harish Ragavendra
 - **Email:** harishragavendra2305@gmail.com
 - **LinkedIn:** www.linkedin.com/in/harishragavendra23
 - **GitHub:** https://github.com/itss-ragavh
-```
+
