@@ -36,19 +36,13 @@ The **Player Management System** is a simple Java console-based application that
 - Store player details in a database using JDBC.
 - Implement file handling to save and retrieve player records.
 
-## License
-  This project is licensed under the MIT License.
-  
-   ```sh
-    
-### Final Steps:
-- Replace `Harish Ragavendra` itss-ragavh.  
-- Replace `Harish Ragavendra ` https://www.linkedin.com/in/harishragavendra23/.
-- Commit the file, and it will appear in your repository. 🚀
+```
+This project is licensed under the MIT License.
+```
 
+## Contact Information
 
-
-
-
-
-
+- **Name:** Harish Ragavendra
+- **Email:** harishragavendra2305@gmail.com
+- **LinkedIn:** www.linkedin.com/in/harishragavendra23
+- **GitHub:** https://github.com/itss-ragavh
