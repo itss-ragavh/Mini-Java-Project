@@ -36,6 +36,7 @@ The **Player Management System** is a simple Java console-based application that
 - Store player details in a database using JDBC.
 - Implement file handling to save and retrieve player records.
 
+## License
 ```
 This project is licensed under the MIT License.
 ```
