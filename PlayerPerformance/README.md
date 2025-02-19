@@ -15,7 +15,7 @@ The **Player Management System** is a simple Java console-based application that
 ## Setup Instructions
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/YOUR-USERNAME/Player-Management-System.git
+   git clone https://github.com/itss-ragavh/Player-Management-System.git
 2. Open the project in an IDE (Eclipse, IntelliJ, or VS Code).
 3. Compile the Java file:
    ```sh
