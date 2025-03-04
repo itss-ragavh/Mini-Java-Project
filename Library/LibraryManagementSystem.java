@@ -1,6 +1,6 @@
 /**
  * Library Management System
- * Author: [Your Name]
+ * Author: Harish Ragavendra.R
  * Description: This program allows users to manage library operations such as adding books, 
  * issuing books, returning books, and displaying available books.
  */
